@@ -49,8 +49,16 @@ Proficient in developing web applications using React.JS, Python, and Java, emph
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <a href="https://github.com/Vinissil" title="Perfil do Vinicius Souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinissil&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinissil&theme=tokyonight&show_icons=true" />
 </a>
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinissil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 ## Onde me encontrar / Where to find me
 
